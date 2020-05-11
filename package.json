@@ -1,0 +1,19 @@
+{
+  "name": "RestAPI",
+  "version": "1.0.0",
+  "description": "Final Project CS188",
+  "main": "index.js",
+  "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+  }
+    
+  "author": "Mustafa Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^8.5.1",
+    "restify-errors": "^8.0.2",
+    "uuid": "^8.0.0"
+  }
+ 
+}
